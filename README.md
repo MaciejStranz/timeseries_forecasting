@@ -1,0 +1,1 @@
+Jest to projekt akademicki, którego celem było porównanie metryk uzyskanych przez modele lstm oraz transformer w zadaniu przewidywania kolejnych wartości szeregów czasowych na różnych horyzontach czasowych. 
