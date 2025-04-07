@@ -57,7 +57,7 @@ This project aims to develop and compare models for forecasting weather conditio
 
 ## 🏗️ Implementation Summary
 
-- Two models: `LSTM`, and a **custom Transformer** with 3 encoders and 3 decoders.
+- Two models: `LSTM`, and a **custom Transformer**.
 - Positional encoding (sinusoidal) was applied for cyclic time patterns.
 - Teacher forcing was used to improve training convergence.
 - Each feature (temperature, humidity) trained in separate models.
